@@ -49,18 +49,18 @@ div.header {
 }
 
 .con-black {
-    background: rgba(0, 0, 0, 0.597);
-    bottom: 590px;
-    left: 540px;
+    background: rgba(2, 2, 2, 0.505);
+    bottom: 720px;
+    left: 580px;
     position: absolute;
     border-radius: 2rem;
     padding: 10px 10px 20px 10px;
 }
 
-.white-c {
+/* .white-c {
     color: white;
     font-weight: bolder;
-}
+} */
 
 .activities {
     background-color: var(--light-blue);
@@ -209,4 +209,16 @@ div.header {
     color:aqua;
 }
 
+.travis:hover {
+    color:aqua;
+}
+
+
+.white-c {
+    font-family: "Special Elite", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+  }
+  
 
