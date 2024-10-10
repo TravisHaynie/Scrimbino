@@ -3,12 +3,16 @@
     --light-blue: azure;
 }
 
-.body {}
 
 h1 {
     margin: 0;
     text-align: center;
+    text-decoration: underline;
 
+}
+
+img:hover {
+    background-color: yellow;
 }
 
 h2 {
@@ -71,10 +75,6 @@ div.con-black {
 
 }
 
-.car-a {}
-
-.car-c {}
-
 .destination2 {
     display: inline-block;
     left: 650px;
@@ -88,7 +88,7 @@ div.con-black {
     left: 1330px;
     bottom: 200px;
     position: relative;
- display: inline-block;
+    display: inline-block;
 }
 
 .guide {
@@ -97,8 +97,9 @@ div.con-black {
     border-bottom: 5px solid gray;
     text-align: center;
 }
+
 .guide-1 {
-    margin-top:50px;
+    margin-top: 50px;
     font-size: larger;
     font-weight: bolder;
 }
@@ -150,9 +151,9 @@ div.con-black {
     width: 50%;
     float: left;
     border-radius: 5rem;
-    border:2px solid black;
-  
- 
+    border: 2px solid black;
+
+
 }
 
 .text-1 {
@@ -168,3 +169,9 @@ div.con-black {
 .text-3 {
     width: 30%;
 }
+
+.destination1:hover, .destination2:hover, .destination3:hover {
+color:green;
+font-size: larger;
+}
+
