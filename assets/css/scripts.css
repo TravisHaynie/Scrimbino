@@ -17,12 +17,31 @@ p {
     font-size: larger;
 }
 
-.header {
-    background-color: aqua;
-    margin: 0;
+div.header {
+    
+
+}
+
+div.con-black {
+    background: rgba(0, 0, 0, 0.597);
+    bottom:575px;
+    left:500px;
+    position: absolute;
+    border-radius: 2rem;
+    padding: 10px 10px 20px 10px; 
+}
+
+.white-c {
+    color:white;
+    font-weight: bolder;
+}
+
+.headerimg {
+    z-index: -1;
+    max-width: 100%;
+    margin-bottom: 0px;
     border-bottom: 5px solid gray;
-    padding-top:50px;
-    padding-bottom:50px;
+      
 }
 
 .activities {
@@ -60,4 +79,11 @@ p {
     margin: 5px 350px 50px 350px;
     padding: 100px;
     background-color: var(--light-blue);
+}
+
+
+.backgroundImg{
+    width: 100%;
+    height: 500px;
+  
 }
