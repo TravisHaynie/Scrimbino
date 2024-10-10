@@ -145,10 +145,19 @@ div.header {
 
 }
 
+.guide-container:hover {
+    background-color: rgba(137, 43, 226, 0.198);
+}
+
 .block {
     display: inline-block;
 }
 
+.block:hover{
+    background-color: rgba(240, 248, 255, 0.367);
+    border-radius: 5rem;
+    padding: 10px;
+}
 
 .backgroundImg {
     width: 100%;
