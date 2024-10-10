@@ -24,6 +24,9 @@ ul {
 }
 
 li {
+    background-color: rgba(0, 0, 0, 0.624);
+    padding: 10px;
+    border-radius: 5rem;
     display: inline;
     font-size: larger;
     font-weight: bolder;
@@ -31,6 +34,7 @@ li {
 
 .white {
     color:white;
+    text-decoration: none;
 }
 
 h2 {
