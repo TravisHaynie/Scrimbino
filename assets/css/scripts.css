@@ -88,7 +88,7 @@ div.con-black {
     left: 1330px;
     bottom: 200px;
     position: relative;
-
+ display: inline-block;
 }
 
 .guide {
@@ -97,12 +97,18 @@ div.con-black {
     border-bottom: 5px solid gray;
     text-align: center;
 }
+.guide-1 {
+    margin-top:50px;
+    font-size: larger;
+    font-weight: bolder;
+}
 
 .guide-container {
     margin: 5px 350px 50px 350px;
     padding: 100px;
     background-color: var(--light-blue);
     border-radius: 5rem;
+    border: 2px solid;
 }
 
 .block {
@@ -145,6 +151,7 @@ div.con-black {
     float: left;
     border-radius: 5rem;
     border:2px solid black;
+  
  
 }
 
