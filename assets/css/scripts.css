@@ -16,12 +16,29 @@ h1 {
 
 }
 
+ul {
+    position: absolute;
+    right:40px;
+    top:450px;
+   
+}
+
+li {
+    display: inline;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.white {
+    color:white;
+}
+
 h2 {
     text-align: center;
 }
 
 p {
-    margin: 0;
+    margin:0;
     font-size: larger;
 
 }
@@ -80,7 +97,6 @@ div.header {
 }
 
 .destination3 {
-    display: inline-block;
     left: 1330px;
     bottom: 250px;
     position: relative;
@@ -144,6 +160,7 @@ div.header {
     left: 150px;
 }
 
+
 .img-2 {
     width: 10%;
     border-radius: 10rem;
@@ -183,3 +200,13 @@ div.header {
 .text-3 {
     width: 30%;
 }
+
+.text-1:hover, .text-2:hover, .text-3:hover {
+    font-family: serif;
+}
+
+.white:hover {
+    color:aqua;
+}
+
+
