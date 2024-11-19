@@ -1,7 +1,7 @@
 
 body {
     margin:0px;
-    background-color: rgb(211, 239, 230);
+    background-color: rgb(247, 217, 168);
     font-family: sans-serif;
 }
 
@@ -34,12 +34,12 @@ body {
     width: 40%;
     margin-left: auto;
     margin-right:auto;
-    padding:1px 10px;
+    padding:0px 13px;
     border-radius: 10px;
 }
 
 main {
-    background-color: rgb(211, 239, 230);
+    background-color: rgb(247, 217, 168);
     height: 500px;
 }
 
@@ -58,18 +58,18 @@ main {
 
 .visit-1 {
     width: 300px;
-    margin-left:60px;
+    margin-left:40px;
     text-align: center;
 }
 
 .visit-2 {
     width: 300px;
-    margin-left:170px;
+    margin-left:209px;
     text-align: center;
 }
 
 .visit-3 {
-    margin-left:155px;
+    margin-left:240px;
     width: 300px;
     text-align: center;
 }
@@ -127,12 +127,10 @@ main {
 
 
 .big-img {
-    width: 40%;
+    width: 45%;
     float: left;
     border-radius: 20px;
-     margin-left:15px; 
-    margin-right:20px;
-    margin-top:40px;
+    margin: 40px 20px 0px 15px;
     padding-top:10px;
     
 }
@@ -141,10 +139,10 @@ main {
     width: 40%;
     margin-right:auto;
     margin-left:auto;
-    background-color: rgb(4, 24, 45);
+    background-color: rgb(130, 70, 28);
     height:350px;
     border-radius: 20px;
-    border-bottom: 10px solid rgb(83, 249, 249);
+    border-bottom: 10px solid rgb(0, 0, 0);
   
 
 }
@@ -163,7 +161,7 @@ main {
 }
 
 .bottom {
-    background-color: rgb(233, 234, 221);
+    background-color: rgb(255, 253, 249);
     height: 500px;
     padding-top:70px;
 }
