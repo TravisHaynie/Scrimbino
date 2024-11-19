@@ -1,0 +1,175 @@
+
+body {
+    margin:0px;
+    background-color: rgb(211, 239, 230);
+    font-family: sans-serif;
+}
+
+.header {
+    text-align: center;
+    background-image: url(../../assets/images/sandiego.gif); 
+    background-size:cover;
+    height:500px;
+}
+
+.h1-p {
+   padding-top:10%;
+   color: aliceblue;
+   margin-left: auto ;
+   margin-right:auto;
+
+}
+
+.space {
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 25%;
+    margin-left: auto;
+    margin-right:auto;
+    border-radius: 10px;
+
+}
+
+.space1 {
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 40%;
+    margin-left: auto;
+    margin-right:auto;
+    padding:1px 10px;
+    border-radius: 10px;
+}
+
+main {
+    background-color: rgb(211, 239, 230);
+    height: 500px;
+}
+
+.activities {
+    text-align: center;
+    padding-top:40px;
+}
+
+.small-img {
+    width: 34%;
+    margin-top:40px;
+    border-radius: 50%;
+    margin-bottom:20px;
+    
+}
+
+.visit-1 {
+    width: 300px;
+    margin-left:60px;
+    text-align: center;
+}
+
+.visit-2 {
+    width: 300px;
+    margin-left:170px;
+    text-align: center;
+}
+
+.visit-3 {
+    margin-left:155px;
+    width: 300px;
+    text-align: center;
+}
+
+.img-sec-1 {
+    padding-bottom: 30%;
+    width:20%;
+    display: inline-block;
+}
+.img-sec-2 {
+    display: inline-block;
+    width: 20%;
+}
+.img-sec-3 {
+    display: inline-block;
+    width: 20%;
+    margin-left:150px;
+ 
+}
+
+.block-1 {
+   margin-left:auto;
+   margin-right: auto;
+}
+
+.block-2 {
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+
+.block-3 {
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#block-1 {
+    width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+ }
+
+#block-2 {
+    width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#block-3 {
+
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+.big-img {
+    width: 40%;
+    float: left;
+    border-radius: 20px;
+     margin-left:15px; 
+    margin-right:20px;
+    margin-top:40px;
+    padding-top:10px;
+    
+}
+
+.guide {
+    width: 40%;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: rgb(4, 24, 45);
+    height:350px;
+    border-radius: 20px;
+    border-bottom: 10px solid rgb(83, 249, 249);
+  
+
+}
+
+.info {
+    margin-right:auto;
+    margin-left:auto;
+    padding:40px;
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.info-center {
+  margin-left:130px;
+}
+
+.bottom {
+    background-color: rgb(233, 234, 221);
+    height: 500px;
+    padding-top:70px;
+}
+
+.center {
+    margin-left:170px;
+}
+
+
