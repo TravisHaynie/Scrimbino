@@ -6,84 +6,101 @@ header {
     background-image: url(/images/sandiego1.jpg);
     background-size: cover;
     text-align: center;
-    padding-top:5em;
-    padding-bottom:5em;
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
 
 h1 {
-    display: inline-block;
-    padding:1px 10px 1px 10px;
+    display: block;
+    padding: 0px 10px 0px 10px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .p-1 {
-    display: inline-block;
+    display: block;
     font-weight: bolder;
-    padding:1px 10px 1px 10px;
-    margin-bottom:15px;
-    
+    padding: 1px 10px 1px 10px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
 }
 
 .background-shadow {
     background-color: rgba(255, 255, 255, 0.753);
     border-radius: 10px;
-} 
+}
 
 main {
     background-color: rgba(127, 99, 40, 0.703);
-    padding-top:10px;
+    padding-top: 10px;
     text-align: center;
-    color:white
+    color: white
+}
+
+.top-three {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.section {
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .section-1 {
-display: inline-block;
-width: 200px;
-padding:50px;
-}
-
-.section-2{
     display: inline-block;
     width: 200px;
-    padding:50px;
+    padding: 50px;
+}
+
+.section-2 {
+    display: inline-block;
+    width: 200px;
+    padding: 50px;
 }
 
 .section-3 {
     display: inline-block;
     width: 230px;
-    padding:50px;
+    padding: 50px;
 }
 
 
-.inline-block {
-    display: inline-block;
-}
 
 .small-img {
     width: 100px;
     border-radius: 50%;
-    display:inline-block;
-  
+    display: inline-block;
+
 }
 
 footer {
-    padding:20px;
+    padding: 20px;
 }
 
 .card {
-text-align: center;
-width: 500px;
-background-color: rgba(163, 131, 49, 0.851);
-overflow: hidden;
-padding:30px;
-margin-left: auto;
-margin-right: auto;
-border-radius: 10px;
-border-bottom: 5px solid black;
-color:white;
+    text-align: center;
+    width: 500px;
+    background-color: rgba(163, 131, 49, 0.851);
+    overflow: hidden;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+    color: white;
 }
 
 .big-img {
     width: 300px;
     float: left;
     border-radius: 10px;
+    margin-right:10px;
 }
