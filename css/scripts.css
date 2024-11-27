@@ -98,3 +98,7 @@ footer {
     border-radius: 10px;
     margin-right: 10px;
 }
+
+.italic {
+    font-style: italic;
+}
